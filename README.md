@@ -9,7 +9,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
    <a href="https://github.com/Qadeer-bhai">
-    <img src="https://telegra.ph/file/da95ed969f943e4d61ca8.jpg" width="500">
+    <img src="https://qu.ax/Upgrp.jpg" width="500">
      
 </a>
  <p align="center"><img src="https://profile-counter.glitch.me/{Qadeer-khan}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
@@ -20,7 +20,7 @@
 
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Qadeer-bhai/Qadeer-Pair/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Qadeer-bhai/Qadeer-Pair/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Qadeer-QR?color=black&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
     <br>
